@@ -12,8 +12,9 @@
 </div>
 
 
-# aboutMe
+
  <h3>👨‍💻 About Me :<h3/>
+  <p dir="auto"> I am a Full Stack Developer</p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=junaid-hashmii)](https://git.io/streak-stats)
