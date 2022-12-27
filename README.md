@@ -21,5 +21,21 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-hashmii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
+ <h3>👨‍💻 Tools & Technologies<h3/>
+<div dir="auto">
+   <h3 dir="auto"><a id="user-content-i-am-proficient-with" class="anchor" aria-hidden="true" href="#i-am-proficient-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I am Proficient with</h3>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="C#" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="5%" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET CORE" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="5%" style="max-width: 100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Management Studio" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" alt="Azure" width="5%" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="5%" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="5%" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" alt="Unity" width="5%" style="max-width: 100%;"></a>
+  </div>
+
+  </div>
