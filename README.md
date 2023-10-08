@@ -17,8 +17,7 @@
   <p> I am a Full Stack Developer</p>
 
 
-[![Muhammad junaid hashmi's github stats](https://github-readme-stats.vercel.app/api?username=muhammadjunaidhashmi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-[![Muhammad junaid hashmi's github stats](https://streak-stats.demolab.com?user=muhammadjunaidhashmi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
+[![Muhammad junaid hashmi's github stats](https://streak-stats.demolab.com?user=muhammadjunaidhashmi)](https://git.io/streak-stats)
 
 
 
